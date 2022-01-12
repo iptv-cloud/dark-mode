@@ -1,4 +1,4 @@
-# Challenge: Add a dark/light mode to the React Facts site
+# Add a dark/light mode to the React Facts site
 
 Imagine you've been handed this code base which includes
 all the design elements for a light and dark mode already,
@@ -6,7 +6,7 @@ but the team needs you to add the functionality to it so
 it can switch from light to dark mode when the toggle is
 flipped.
 
-## Advice:
+## Tips:
 1. Spend a good amount of time looking through the existing
 code base to make sure you understand how everything is
 working
